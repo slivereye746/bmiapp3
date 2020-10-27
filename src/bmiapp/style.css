@@ -33,3 +33,6 @@ HBox, VBox {
 Text {
     -fx-fill: red;
 }
+button {
+    color:red;
+}
